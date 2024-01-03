@@ -1,0 +1,1 @@
+backup database bca4 to Disk=N'D:\myBackup'
